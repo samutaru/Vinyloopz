@@ -1,6 +1,6 @@
 # 🎧 Vinyloopz
 
-**Vinyloopz** es una plataforma web inspirada en [Letterboxd](https://letterboxd.com/), pero orientada al mundo de la música. Permite a los usuarios puntuar discos, escribir reseñas, descubrir nuevas obras y compartir opiniones con la comunidad.
+**Vinyloopz** es una plataforma web inspirada en [Letterboxd](https://letterboxd.com/), pero orientada al mundo de la música. Permite a los usuarios puntuar discos, escribir reseñas, descubrir nuevas canciones a traves de IA y compartir opiniones con la comunidad.
 
 ---
 

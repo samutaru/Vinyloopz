@@ -10,7 +10,7 @@
 - 📀 Visualización de álbumes con detalles
 - ✍️ Publicación de reseñas y puntuaciones
 - 🏆 Valoraciones de álbumes por la comunidad
-- 🔍 Búsqueda de álbumes
+- 🔍 Recomendacion personalizada de álbumes
 - 📈 Página de perfil con historial de actividad
 - ❤️ Like a reseñas de otros usuarios
 - 📂 Posibilidad de guardar álbumes favoritos
